@@ -75,6 +75,6 @@ interactive.html
 </html>
 ```
 ## OUTPUT:
-"C:\Users\admin\Interactive\Screenshot 2025-05-07 154953.png"
+![alt text](<Screenshot 2025-05-07 154953-1.png>)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
